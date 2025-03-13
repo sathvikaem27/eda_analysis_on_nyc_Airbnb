@@ -50,6 +50,10 @@ Output Files
 - boxplot_price_neighbourhood.png
 - violinplot_price_room_type.png
 - pairplot_nyc.png
+  
+Report
+The detailed analysis and findings are documented in the report:
+Report on NYC_airbnb_data_analysis.docx.
 
 
 Conclusion
